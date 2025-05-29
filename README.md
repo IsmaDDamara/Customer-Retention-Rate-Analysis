@@ -41,11 +41,11 @@ Dashboard interaktif dapat diakses melalui tautan berikut:
 Clone repositori ini:
 
 ```bash
-git clone https://github.com/IsmaDDamara/Retail-Sales-Product-Performance-and-Retention-Analysis.git
+git clone https://github.com/IsmaDDamara/Customer-Retention-Rate-Analysis.git
 cd notebook
 ```
 
 Jalankan analisis:
 ```bash
-jupyter notebook retentionrate_analysis.ipynb
+jupyter notebook retentionRate_analysis.ipynb
 ```
