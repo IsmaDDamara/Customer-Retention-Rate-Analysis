@@ -35,7 +35,7 @@ Konversi order_date ke datetime, tambah kolom year_month.
 ## 📈 Dashboard
 Dashboard interaktif dapat diakses melalui tautan berikut:
 
-👉 [Lihat Dashboard Retail Analysis](https://lookerstudio.google.com/s/n8j-5g6Qxac)
+👉 [Lihat Dashboard](https://lookerstudio.google.com/s/n8j-5g6Qxac)
 
 ## ▶️ Cara Menjalankan
 Clone repositori ini:
