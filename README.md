@@ -43,9 +43,7 @@ The following steps are performed in this project:
    * Visualize retention and churn trends per cohort and in aggregate.
 
 ## 📈 Dashboard
-
-An interactive dashboard is available at the following link:
-👉 [View Retail Analysis Dashboard](https://lookerstudio.google.com/s/n8j-5g6Qxac)
+👉 [Lihat Dashboard](https://lookerstudio.google.com/s/n8j-5g6Qxac)
 
 ## ▶️ How to Run
 
